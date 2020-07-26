@@ -7,5 +7,5 @@ Ready to explore the unknown x)
   
 > <img src="https://raw.githubusercontent.com/Arthurdw/Arthurdw/master/discord.webp" height="18px" width="18px"> Contact me through discord: `Arthur#0002`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdw&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdw&theme=dark)
 ![Arthurdw's github stats](https://github-readme-stats.vercel.app/api?username=Arthurdw&count_private=True&show_icons=true&theme=dark)
