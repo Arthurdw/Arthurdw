@@ -7,4 +7,4 @@ Ready to explore the unknown x)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurdw&theme=dark)
 ![Arthurdw's github stats](https://github-readme-stats.vercel.app/api?username=Arthurdw&count_private=True&show_icons=true&theme=dark)
-![Some more stats](https://metrics.lecoq.io/Arthurdw?template=terminal&languages=1&isocalendar=1&pagespeed=1&followup=1)
+![Some more stats](https://metrics.lecoq.io/Arthurdw?languages=1&isocalendar=1&pagespeed=1&followup=1)
