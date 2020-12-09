@@ -5,4 +5,4 @@ Ready to explore the unknown x)
   
 > <img src="https://raw.githubusercontent.com/Arthurdw/Arthurdw/master/discord.webp" height="18px" width="18px"> `Arthur#0002`
 
-![GitHub metrics](https://metrics.lecoq.io/Arthurdw?languages=1&pagespeed=1&isocalendar=1&followup=1)
+![GitHub metrics](https://metrics.lecoq.io/Arthurdw)
