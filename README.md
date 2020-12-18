@@ -1,4 +1,4 @@
-Proud owner of [<img src="https://xiler.net/assets/logo-64x.png" height="16px" width="16px"> Xiler](https://xiler.net)  
+Proud owner of [<img src="https://xiler.net/favicon.ico" height="16px" width="16px"> Xiler](https://xiler.net)  
 Coding addict. (Python, Javascript, C#, Java, C, ...)  
 Ready to explore the unknown x)  
   
