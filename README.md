@@ -1,5 +1,5 @@
 Proud owner of [<img src="https://xiler.net/favicon.ico" height="16px" width="16px"> Xiler](https://xiler.net)  
-Coding addict. (Python, Javascript, C#, Java, C, ...)  
+Coding addict. (Python, TypeScript, C#, ...)  
 Ready to explore the unknown x)  
   
   
