@@ -655,7 +655,7 @@
       </h2>
       <div class="field">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-        1201 Commits
+        1202 Commits
       </div>
       <div class="field">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -819,21 +819,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="137.90069805344567" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="137.3678953032198" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="137.90069805344567" y="0" width="112.69964636058918" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="137.3678953032198" y="0" width="112.26421215048002" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="250.60034441403488" y="0" width="87.23081890587041" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="249.63210745369983" y="0" width="86.89378783297846" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="337.8311633199053" y="0" width="58.13959223838371" height="8" fill="#178600"/>
+          <rect mask="url(#languages-bar)" x="336.5258952866783" y="0" width="59.69224812399277" height="8" fill="#178600"/>
         
-          <rect mask="url(#languages-bar)" x="395.970755558289" y="0" width="26.307518681386266" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="396.2181434106711" y="0" width="26.20587511827951" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="422.2782742396753" y="0" width="13.351019404040715" height="8" fill="#b07219"/>
+          <rect mask="url(#languages-bar)" x="422.42401852895057" y="0" width="13.299435474755347" height="8" fill="#b07219"/>
         
-          <rect mask="url(#languages-bar)" x="435.629293643716" y="0" width="8.419447092469019" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="435.7234540037059" y="0" width="8.386917129752586" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="444.048740736185" y="0" width="7.386961468679849" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="444.1103711334585" y="0" width="7.358420689395325" height="8" fill="#2b7489"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -1890,10 +1890,10 @@
                       <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8674698795180724 0,1.8674698795180722 z"/>
                       <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8674698795180722 1.7,2.8674698795180724 z"/>
                     </g>
-                    <g transform="translate(-6.8, 9.927710843373493)">
+                    <g transform="translate(-6.8, 9.855421686746988)">
                       <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                      <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.072289156626506 0,1.072289156626506 z"/>
-                      <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.072289156626506 1.7,2.072289156626506 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.144578313253012 0,1.144578313253012 z"/>
+                      <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.144578313253012 1.7,2.144578313253012 z"/>
                     </g></g></g></svg>
     
   </section>
@@ -1915,6 +1915,39 @@
       <section>
         
           
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">Arthurdw/Learning</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">master</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#daa31f0</div>
+                        <div class="message">Add files via upload</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
           
             <div class="row fill-width">
               <section class="activity">
@@ -2049,39 +2082,6 @@ Made some more clarifications in the /user/:client route wether the response is 
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">GIP-Loeka-Arthur/API-2.0</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">master</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#1594074</div>
-                        <div class="message">🌟 Docs update, Prisma update &amp; refactoring.</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -2092,7 +2092,7 @@ Made some more clarifications in the /user/:client route wether the response is 
       
         <footer>
           <span>These metrics include private contributions, timezone Europe/Brussels</span>
-          <span>Last updated Thu, 11 Feb 2021 19:08:10 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Thu, 11 Feb 2021 20:09:34 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
