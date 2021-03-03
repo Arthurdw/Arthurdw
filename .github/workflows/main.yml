@@ -36,4 +36,3 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
-          plugin_pagespeed: yes
