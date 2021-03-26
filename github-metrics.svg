@@ -1321,8 +1321,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
-                  <text x="60" y="60" dominant-baseline="central">96</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                  <text x="60" y="60" dominant-baseline="central">100</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1332,8 +1332,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="286.23 329"/>
-                  <text x="60" y="60" dominant-baseline="central">87</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
+                  <text x="60" y="60" dominant-baseline="central">88</text>
                 
               </svg>
               <span class="title">Accessibility</span>
@@ -2624,7 +2624,7 @@ Bump @types/node from 14.14.35 to 14.14.36</div>
           
             <span>These metrics include private contributions, timezone Europe/Brussels</span>
           
-          <span>Last updated Fri, 26 Mar 2021 08:02:50 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 26 Mar 2021 09:05:13 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
