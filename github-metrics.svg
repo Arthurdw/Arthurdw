@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1307" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1223" class="">
     <defs>
         <style/>
     </defs>
@@ -1074,7 +1074,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        1583 Commits
+                        1588 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1098,7 +1098,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        76 issue comments
+                        77 issue comments
                     </div>
                 </section>
                 <section>
@@ -1160,7 +1160,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                             </svg>
-                            35 Releases
+                            36 Releases
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1226,8 +1226,8 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="192.5" height="8" fill="#d73a49"/>
-                            <rect mask="url(#issues-bar)" x="192.5" y="0" width="27.5" height="8" fill="#28a745"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="206.25" height="8" fill="#d73a49"/>
+                            <rect mask="url(#issues-bar)" x="206.25" y="0" width="13.75" height="8" fill="#28a745"/>
                         </svg>
                         <div class="field horizontal fill-width">
                             <div class="field center">
@@ -1235,7 +1235,7 @@
                                     <path fill="#d73a49" fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 0110.65-5.003.75.75 0 00.959-1.153 8 8 0 102.592 8.33.75.75 0 10-1.444-.407A6.5 6.5 0 011.5 8zM8 12a1 1 0 100-2 1 1 0 000 2zm0-8a.75.75 0 01.75.75v3.5a.75.75 0 11-1.5 0v-3.5A.75.75 0 018 4zm4.78 4.28l3-3a.75.75 0 00-1.06-1.06l-2.47 2.47-.97-.97a.749.749 0 10-1.06 1.06l1.5 1.5a.75.75 0 001.06 0z"/>
                                 </svg>
                                 <span class="no-wrap">
-                                    14 Closed
+                                    15 Closed
                                 </span>
                             </div>
                             <div class="field center">
@@ -1243,7 +1243,7 @@
                                     <path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                 </svg>
                                 <span class="no-wrap">
-                                    2 Open
+                                    1 Open
                                 </span>
                             </div>
                         </div>
@@ -1293,14 +1293,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.2299005288699" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="139.2299005288699" y="0" width="113.53268629012186" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="252.76258681899176" y="0" width="89.94074824380766" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="342.70333506279945" y="0" width="68.21940733384433" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="410.9227423966438" y="0" width="26.366362833732264" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.2891052303761" y="0" width="11.506678669739255" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.79578390011534" y="0" width="6.663859895910081" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.45964379602543" y="0" width="4.5403562039746355" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.2271851909408" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="139.2271851909408" y="0" width="113.5304721133674" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="252.75765730430817" y="0" width="89.94796534242296" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="342.7056226467311" y="0" width="68.21807688152387" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="410.923699528255" y="0" width="26.365848622454493" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.28954815070944" y="0" width="11.506454260177003" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.79600241088644" y="0" width="6.663729933657282" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.45973234454374" y="0" width="4.540267655456209" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1375,9 +1375,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    96
+                                    97
                                 </text>
                             </svg>
                             <span class="title">
@@ -1411,9 +1411,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    91
+                                    100
                                 </text>
                             </svg>
                             <span class="title">
@@ -1436,6 +1436,12 @@
                     <section>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 33 days
@@ -1444,7 +1450,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/>
                             </svg>
-                            ~6.19 commits per day
+                            ~6.21 commits per day
                         </div>
                     </section>
                 </div>
@@ -2427,10 +2433,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 5.63855421686747)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.36144578313253 0,1.3614457831325302 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3614457831325302 1.7,2.36144578313253 z"/>
                             </g>
                         </g>
                     </g>
@@ -2449,28 +2455,20 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            Arthurdw/SpaceInvaders
+                                        Closed
+                                        <span class="issue">
+                                            #14 BaseUser doesn't trigger if the argument ends with a whitespace
                                         </span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #5ae2ff0
-                                        </span>
-                                        <span class="message">
-                                            🌟 Begin for overlay.
+                                        opened by asxlvm in
+                                        <span class="repo">
+                                            Arthurdw/dogehouse.py
                                         </span>
                                     </div>
                                 </div>
@@ -2497,7 +2495,48 @@
                                         </span>
                                     </div>
                                     <div class="comment">
-                                        I'll look into that on Monday. Thanks for reporting. ^^
+                                        This issue has been resolved in [1.3.2](https://github.com/Arthurdw/dogehouse.py/releases/tag/1.3.2).
+
+Thanks for reporting this issue. ^^
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">
+                                            1.3.2
+                                        </span>
+                                        in
+                                        <span class="repo">
+                                            Arthurdw/dogehouse.py
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Released
+                                        <span class="bold">
+                                            Docs fix &amp; command convertors bug patch.
+                                        </span>
+                                        of
+                                        <span class="repo">
+                                            Arthurdw/dogehouse.py
+                                        </span>
                                     </div>
                                 </div>
                             </section>
@@ -2511,7 +2550,7 @@
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Arthurdw/SpaceInvaders
+                                            Arthurdw/dogehouse.py
                                         </span>
                                     </div>
                                 </div>
@@ -2519,92 +2558,15 @@
                                     <div>
                                         on branch
                                         <span class="code">
-                                            master
+                                            main
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #da9ef3b
+                                            #50f5a81
                                         </span>
                                         <span class="message">
-                                            🌟📝 Game optimalisations &amp; wrote some basic docs.
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">
-                                            Arthurdw/Site
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            temp
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #d06d0fc
-                                        </span>
-                                        <span class="message">
-                                            Bump next from 10.1.1 to 10.1.3
-
-Bumps [next](https://github.com/vercel/next.js) from 10.1.1 to 10.1.3.
-- [Release notes](https://github.com/vercel/next.js/releases)
-- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
-- [Commits](https://github.com/vercel/next.js/compare/v10.1.1...v10.1.3)
-
-Signed-off-by: dependabot-preview[bot] &lt;support@dependabot.com&gt;
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #2164cb1
-                                        </span>
-                                        <span class="message">
-                                            Merge pull request #15 from Arthurdw/dependabot/npm_and_yarn/next-10.1.3
-
-Bump next from 10.1.1 to 10.1.3
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">
-                                            #15 Bump next from 10.1.1 to 10.1.3
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened by dependabot-preview[bot] in
-                                        <span class="repo">
-                                            Arthurdw/Site
-                                        </span>
-                                    </div>
-                                    <div>
-                                        3 files changed
-                                        <span class="code">
-                                            ++116 --2828
+                                            ✨ Convertors bug patch.
                                         </span>
                                     </div>
                                 </div>
@@ -2618,7 +2580,7 @@ Bump next from 10.1.1 to 10.1.3
                     These metrics include private contributions, timezone Europe/Brussels
                 </span>
                 <span>
-                    Last updated Sun, 04 Apr 2021 13:09:26 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sun, 04 Apr 2021 14:02:27 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
