@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1149" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1222" class="">
     <defs>
         <style/>
     </defs>
@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        1695 Commits
+                        1696 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1128,7 +1128,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                         </svg>
-                        87 issue comments
+                        90 issue comments
                     </div>
                 </section>
                 <section>
@@ -1208,7 +1208,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                             </svg>
-                            982k added, 260k removed
+                            978k added, 259k removed
                         </div>
                     </section>
                     <section>
@@ -1256,8 +1256,8 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="172.85714285714286" height="8" fill="#d73a49"/>
-                            <rect mask="url(#issues-bar)" x="172.85714285714286" y="0" width="47.142857142857146" height="8" fill="#28a745"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="188.57142857142856" height="8" fill="#d73a49"/>
+                            <rect mask="url(#issues-bar)" x="188.57142857142856" y="0" width="31.428571428571438" height="8" fill="#28a745"/>
                         </svg>
                         <div class="field horizontal fill-width">
                             <div class="field center">
@@ -1265,7 +1265,7 @@
                                     <path fill="#d73a49" fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 0110.65-5.003.75.75 0 00.959-1.153 8 8 0 102.592 8.33.75.75 0 10-1.444-.407A6.5 6.5 0 011.5 8zM8 12a1 1 0 100-2 1 1 0 000 2zm0-8a.75.75 0 01.75.75v3.5a.75.75 0 11-1.5 0v-3.5A.75.75 0 018 4zm4.78 4.28l3-3a.75.75 0 00-1.06-1.06l-2.47 2.47-.97-.97a.749.749 0 10-1.06 1.06l1.5 1.5a.75.75 0 001.06 0z"/>
                                 </svg>
                                 <span class="no-wrap">
-                                    22 Closed
+                                    24 Closed
                                 </span>
                             </div>
                             <div class="field center">
@@ -1273,7 +1273,7 @@
                                     <path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                 </svg>
                                 <span class="no-wrap">
-                                    6 Open
+                                    4 Open
                                 </span>
                             </div>
                         </div>
@@ -1323,14 +1323,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.18182430987724" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="137.18182430987724" y="0" width="111.86261690139213" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="249.0444412112694" y="0" width="89.85508970383201" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="338.8995309151014" y="0" width="72.74513948557744" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="411.6446704006789" y="0" width="25.978512806575914" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="437.6231832072548" y="0" width="11.337415064338657" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.9605982715934" y="0" width="6.565834307098558" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.526432578692" y="0" width="4.473567421308027" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.16927264182047" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="137.16927264182047" y="0" width="111.85238185427583" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="249.0216544960963" y="0" width="89.88895669802254" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="338.9106111941188" y="0" width="72.73848355394684" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="411.64909474806564" y="0" width="25.976135861444895" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="437.62523060951054" y="0" width="11.336377729609909" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.96160833912046" y="0" width="6.565233555700527" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.526841894821" y="0" width="4.473158105178982" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1395,64 +1395,19 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"/>
                         </svg>
-                        https://arthurdw.com
                     </div>
                 </section>
             </div>
-            <section>
-                <div class="row fill-width">
-                    <section class="categories">
-                        <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">
-                                    97
-                                </text>
-                            </svg>
-                            <span class="title">
-                                Performance
-                            </span>
-                        </div>
-                        <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
-                                <text x="60" y="60" dominant-baseline="central">
-                                    95
-                                </text>
-                            </svg>
-                            <span class="title">
-                                Accessibility
-                            </span>
-                        </div>
-                        <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                                <text x="60" y="60" dominant-baseline="central">
-                                    93
-                                </text>
-                            </svg>
-                            <span class="title">
-                                Best Practices
-                            </span>
-                        </div>
-                        <div class="categorie column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
-                                <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">
-                                    100
-                                </text>
-                            </svg>
-                            <span class="title">
-                                SEO
-                            </span>
-                        </div>
-                    </section>
-                </div>
-            </section>
+            <div class="row">
+                <section>
+                    <div class="field error">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                        </svg>
+                        API returned 429
+                    </div>
+                </section>
+            </div>
             <section>
                 <h2 class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2463,10 +2418,10 @@
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
-                            <g transform="translate(0, 5.927710843373494)">
+                            <g transform="translate(0, 5.855421686746988)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.072289156626506 0,1.072289156626506 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.072289156626506 1.7,2.072289156626506 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.144578313253012 0,1.144578313253012 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.144578313253012 1.7,2.144578313253012 z"/>
                             </g>
                         </g>
                     </g>
@@ -2485,51 +2440,12 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">
-                                            0.1.1
-                                        </span>
-                                        in
-                                        <span class="repo">
-                                            Arthurdw/Represents
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Released
-                                        <span class="bold">
-                                            Bug patch for non string types
-                                        </span>
-                                        of
-                                        <span class="repo">
-                                            Arthurdw/Represents
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">
-                                            Arthurdw/Represents
+                                            Arthurdw/dogehouse.py
                                         </span>
                                     </div>
                                 </div>
@@ -2537,15 +2453,15 @@
                                     <div>
                                         on branch
                                         <span class="code">
-                                            master
+                                            main
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #34b5fca
+                                            #1a7709b
                                         </span>
                                         <span class="message">
-                                            🌟 Resolves issue with non string types
+                                            ✨ Preps for telemetry patch
                                         </span>
                                     </div>
                                 </div>
@@ -2555,15 +2471,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">
-                                            2.1.2
+                                        Closed
+                                        <span class="issue">
+                                            #22 We now can get fetch_user
                                         </span>
-                                        in
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by asxlvm in
                                         <span class="repo">
                                             Arthurdw/dogehouse.py
                                         </span>
@@ -2575,17 +2494,73 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Released
-                                        <span class="bold">
-                                            Import fix
+                                        Commented on
+                                        <span class="issue">
+                                            #22 We now can get fetch_user
                                         </span>
-                                        of
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by asxlvm in
                                         <span class="repo">
                                             Arthurdw/dogehouse.py
                                         </span>
+                                    </div>
+                                    <div class="comment">
+                                        This has already been put on the todo list. (See #4 *([comment](https://github.com/Arthurdw/dogehouse.py/issues/4#issuecomment-810097875))*)
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">
+                                            #2681 Diesel CLI not detecting dotenv file
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened  in
+                                        <span class="repo">
+                                            diesel-rs/diesel
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">
+                                            #2681 Diesel CLI not detecting dotenv file
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        opened by Arthurdw in
+                                        <span class="repo">
+                                            diesel-rs/diesel
+                                        </span>
+                                    </div>
+                                    <div class="comment">
+                                        No, the issue has been resolved.
                                     </div>
                                 </div>
                             </section>
@@ -2598,7 +2573,7 @@
                     These metrics include private contributions, timezone Europe/Brussels
                 </span>
                 <span>
-                    Last updated Sun, 18 Apr 2021 10:02:27 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sun, 18 Apr 2021 11:02:21 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
