@@ -2710,7 +2710,7 @@ But its indeed because the <code>MesssageInteraction</code> dataclass doesn't ha
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 20/09/2021, 00:07 (timezone Europe/Brussels) with lowlighter/metrics@3.13.0</span>
+                        <span>Last updated 20/09/2021, 01:08 (timezone Europe/Brussels) with lowlighter/metrics@3.13.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
