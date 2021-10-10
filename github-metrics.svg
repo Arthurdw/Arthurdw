@@ -4082,7 +4082,7 @@ Made using pillow optional, so you don't have to bloat your machine with modules
                             </section>
                             <footer>
                                 <span>These metrics include private contributions</span>
-                                <span>Last updated 10/10/2021, 17:08 (timezone Europe/Brussels) with lowlighter/metrics@3.14.0</span>
+                                <span>Last updated 10/10/2021, 18:09 (timezone Europe/Brussels) with lowlighter/metrics@3.14.0</span>
                             </footer>
                         </div>
                         <div id="metrics-end"></div>
