@@ -24,5 +24,3 @@ language development.
   providing endpoints for common features/hassles)_
 - Dogehouse.py _(A Dogehouse API wrapper for python)_
 - And some more visible on my GitHub!
-
-Feel free to contact me on discord **Arthur#0002**
