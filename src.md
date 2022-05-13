@@ -3,16 +3,14 @@ I like to build solutions for problems I have/encounter online.
 
 Currently interested in backend systems and operating systems.
 
-Languages I use:
+Technologies I use:
 
 - Python
 - Java/Type-script _[React (Next.js), Expressjs]_
 - HTML5 & CSS3
-- Learning **Golang** and **Rust**
-
-Technologies I use:
-
-- Neovim/VIM bindings
+- Learning **Golang**, **Dart** _[Flutter]_, **gRPC**, **Vue** _[Nuxt3]_
+- I definitely want to learn **Rust** in the future
+- Neovim & Neovide, Jetbrains IDE's with VIM bindings
 - Unix _(currently on Manjaro, GNOME | See .dotfiles repository for config)_
 - Docker
 - Git
