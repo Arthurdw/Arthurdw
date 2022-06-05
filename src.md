@@ -1,26 +1,28 @@
-Hello there, I'm arthur. An 18 year old developer!
+# Welcome!
+
+Hello there, I'm Arthur. An 18-year-old developer!
 I like to build solutions for problems I have/encounter online.
 
-Currently interested in backend systems and operating systems.
+Currently interested in backend systems, operating systems, and programming
+language development.
 
-Technologies I use:
+## Technologies I use:
 
 - Python
-- Java/Type-script _[React (Next.js), Expressjs]_
+- Java/Type-script _[React (Next.js), ExpressJS]_
 - HTML5 & CSS3
-- Learning **Golang**, **Dart** _[Flutter]_, **gRPC**, **Vue** _[Nuxt3]_
-- I definitely want to learn **Rust** in the future
 - Neovim & Neovide, Jetbrains IDE's with VIM bindings
-- Unix _(currently on Manjaro, GNOME | See .dotfiles repository for config)_
+- Unix _(currently on Manjaro, GNOME | See `.dotfiles` repository for config)_
 - Docker
 - Git
+- Learning **Golang**, **gRPC**, **Rust**
 
-Feel free to contact me on discord **Arthur#0002**
-
-Some projects I've worked/am working on:
+## Projects
 
 - Pincer _(https://pincer.dev, A Discord API wrapper for python)_
-- Xiler _(https://xiler.net, A platform to improve the develper experience by
-  providing endpoints for common features/hastles)_
+- Xiler _(https://xiler.net, A platform to improve the developer experience by
+  providing endpoints for common features/hassles)_
 - Dogehouse.py _(A Dogehouse API wrapper for python)_
-- And some more visible on my github!
+- And some more visible on my GitHub!
+
+Feel free to contact me on discord **Arthur#0002**
