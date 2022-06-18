@@ -19,9 +19,8 @@ language development.
 
 ## Projects
 
-- Pincer _(https://pincer.dev, A Discord API wrapper for python)_
-- Xiler _(https://xiler.net, A platform to improve the developer experience by
-  providing endpoints for common features/hassles)_
+- Pincer [A Discord API wrapper for python](https://pincer.dev)
+- Xiler [A platform to improve the developer experience by providing endpoints for common features/hassles](https://xiler.net)
 - Dogehouse.py _(A Dogehouse API wrapper for python)_
 - And some more visible on my GitHub!
 
