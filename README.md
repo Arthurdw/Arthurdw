@@ -9,9 +9,9 @@ language development, and workflow automation/optimization.
 
 ## Technologies I use:
 
--   Learning **Rust**
+-   **Rust**
 -   Python
--   Typescript _[React (Next.js), ExpressJS]_
+-   Typescript _[React (Next.js), Vue, ExpressJS]_
 -   HTML5 & CSS3
 -   Neovim & Neovide, Jetbrains IDE's with VIM bindings
 -   Unix _(See `.dotfiles` repository for config)_
@@ -19,13 +19,5 @@ language development, and workflow automation/optimization.
 -   Docker
 -   Git
 -   Java
-
-## Projects
-
--   Firefly [A fast, non-bloated key-value pair database](https://l.ardw.be/ffly)
--   Pincer [A Discord API wrapper for Python](https://pincer.dev)
--   Xiler [A platform for improving and optimizing development workflows](https://xiler.net)
--   Dogehouse.py _(A Dogehouse.tv API wrapper for python)_
--   And some more visible on my GitHub!
 
 Feel free to contact me on discord **Arthur#0002** or mail me **[contact@arthurdw.com]()**.
