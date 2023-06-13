@@ -20,4 +20,4 @@ language development, and workflow automation/optimization.
 -   Git
 -   Java
 
-Feel free to contact me on discord [**Arthur#0002**](https://discord.com/users/232182858251239424) or mail me **[contact@arthurdw.com]()**.
+Feel free to contact me on discord [**arthur_dw**](https://discord.com/users/232182858251239424) or mail me **[contact@arthurdw.com]()**.
