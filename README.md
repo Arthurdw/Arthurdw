@@ -1,6 +1,6 @@
 # Welcome!
 
-Hello there, I'm Arthur. An 19-year-old Freelance Software Engineering student at
+Hello there, I'm Arthur. A 20-year-old Freelance Software Engineering student at
 HOWEST University of Applied Sciences. I like to build solutions for problems
 I have/encounter online.
 
