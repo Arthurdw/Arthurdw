@@ -10,7 +10,7 @@ Currently interested in low level programming with rust.
 
 _\* ordered from most important first_
 
--   **Rust** _[tokio, axum, axios, poem-openapi]_
+-   **Rust** _[tokio, axum, poem-openapi]_
 -   Typescript _[Svelte (&kit)]_
 -   SCSS
 -   Neovim & Neovide, Jetbrains IDE's with VIM bindings
