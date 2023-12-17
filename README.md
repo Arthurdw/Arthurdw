@@ -21,6 +21,6 @@ _\* ordered from most important first_
 
 ### Technologies I know
 
-Python, Java, Go, Javascript [including: prisma, vue, react (&NextJs), expressjs], sql, sqlite, cql (with scylladb), mssql, mysql, postgresql, C# (&.NET), php (&Laravel), Windows, Docker, Markdown, Css, Kotlin (&compose)
+Python, Java, Go, Javascript [including: prisma, vue, react (&NextJs), expressjs], sql, sqlite, cql (with scylladb), mssql, mysql, postgresql, C# (&.NET), php (&Laravel), Windows, Docker, Markdown, CSS (&derivates), Kotlin (&compose), Terraform, Ansible
 
 Feel free to contact me on discord [**arthur_dw**](https://discord.com/users/232182858251239424) or mail me **[contact@arthurdw.com]()**.
