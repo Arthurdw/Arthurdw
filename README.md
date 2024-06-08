@@ -11,7 +11,7 @@ Currently interested in low level programming with rust.
 _\* ordered from most important first_
 
 -   **Rust** _[tokio, axum, poem-openapi]_
--   Typescript _[Svelte (&kit)]_
+-   Typescript _[Vue (&NuxtJS), Svelte (&kit)]_
 -   SCSS
 -   Neovim & Neovide, Jetbrains IDE's with VIM bindings
 -   Unix _(See `.dotfiles` repository for config)_
@@ -24,3 +24,7 @@ _\* ordered from most important first_
 Python, Java, Go, Javascript [including: prisma, vue, react (&NextJs), expressjs], sql, sqlite, cql (with scylladb), mssql, mysql, postgresql, C# (&.NET), php (&Laravel), Windows, Docker, Markdown, CSS (&derivates), Kotlin (&compose), Terraform, Ansible
 
 Feel free to contact me on discord [**arthur_dw**](https://discord.com/users/232182858251239424) or mail me **[contact@arthurdw.com]()**.
+
+## Whitepapers
+
+Read my whitepaper about web solutions, a comprehensive analysis of React, Vue, Svelte, Angular, Lit and Hilla here: [bachelor-dissertation/main.pdf](https://github.com/Arthurdw/bachelor-dissertation/blob/main/main.pdf)
