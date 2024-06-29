@@ -1,8 +1,7 @@
 # Welcome!
 
-Hello there, I'm Arthur. A 20-year-old Freelance Software Engineering student at
-HOWEST University of Applied Sciences. I like to build solutions for problems
-I have/encounter online.
+Hello there, I'm Arthur. A 21-year-old Freelance Computer Science student at
+VUB. I also have my Bachlors degree in Applied Computer Science with specialisation into Software Engineer from HOWEST University of Applied Sciences; achieved with magna cum laude. I like to build solutions for problems I have/encounter online.
 
 Currently interested in low level programming with rust.
 
@@ -10,18 +9,20 @@ Currently interested in low level programming with rust.
 
 _\* ordered from most important first_
 
--   **Rust** _[tokio, axum, poem-openapi]_
+-   **Rust** _[tokio, axum]_
 -   Typescript _[Vue (&NuxtJS), Svelte (&kit)]_
--   SCSS
--   Neovim & Neovide, Jetbrains IDE's with VIM bindings
+-   Neovim, VSCode or Jetbrains IDE's with VIM bindings
 -   Unix _(See `.dotfiles` repository for config)_
+-   Ansible
+-   Terraform
+-   Prometheus with Grafana
 -   Docker
 -   Git
 -   Figma
 
 ### Technologies I know
 
-Python, Java, Go, Javascript [including: prisma, vue, react (&NextJs), expressjs], sql, sqlite, cql (with scylladb), mssql, mysql, postgresql, C# (&.NET), php (&Laravel), Windows, Docker, Markdown, CSS (&derivates), Kotlin (&compose), Terraform, Ansible
+Python, Java, Go, Javascript [including: prisma, vue, react (&NextJs), expressjs], sql, sqlite, cql (with scylladb), mssql, mysql, postgresql, C# (&.NET), php (&Laravel), Windows, Docker, Markdown, CSS (&derivates), Kotlin (&compose), CSS/SCSS/TailwindCSS
 
 Feel free to contact me on discord [**arthur_dw**](https://discord.com/users/232182858251239424) or mail me **[contact@arthurdw.com]()**.
 
