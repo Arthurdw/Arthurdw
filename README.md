@@ -1,6 +1,6 @@
 # Welcome
 
-Hello, I'm Arthur, a 21-year-old freelance Computer Science student at VUB.
+Hello, I'm Arthur, a 21-year-old freelance software developer.
 I hold a Bachelor's degree in Applied Computer Science with a specialization in
 Software Engineering from HOWEST University of Applied Sciences, where I
 graduated magna cum laude. I enjoy creating solutions for the problems I
@@ -12,9 +12,9 @@ Currently interested in low level programming with rust.
 
 _\* ordered from most important first_
 
-- **Rust** _[tokio, axum, maud]_
+- **Rust**
 - Neovim
-- Unix _(See `.dotfiles` repository for config)_
+- Unix _(NixOS, See `.dotfiles` repository for config)_
 - Ansible
 - Terraform
 - Prometheus with Grafana
