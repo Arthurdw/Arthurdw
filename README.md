@@ -14,7 +14,7 @@ _\* ordered from most important first_
 
 - **Rust**
 - Neovim
-- Unix _(NixOS, See `.dotfiles` repository for config)_
+- Unix _(See `.dotfiles` repository for config)_
 - Ansible
 - Terraform
 - Prometheus with Grafana
