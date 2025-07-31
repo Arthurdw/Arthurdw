@@ -1,6 +1,6 @@
 # Welcome
 
-Hello, I'm Arthur, a 21-year-old freelance software developer.
+Hello, I'm Arthur, a 22-year-old freelance software developer.
 I hold a Bachelor's degree in Applied Computer Science with a specialization in
 Software Engineering from HOWEST University of Applied Sciences, where I
 graduated magna cum laude. I enjoy creating solutions for the problems I
