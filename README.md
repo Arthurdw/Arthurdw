@@ -1,12 +1,14 @@
 # Welcome
 
-Hello, I'm Arthur, a 23-year-old freelance software developer.
+Hello, I'm Arthur, a 22-year-old freelance software developer.
 I hold a Bachelor's degree in Applied Computer Science with a specialization in
 Software Engineering from HOWEST University of Applied Sciences, where I
 graduated magna cum laude. I enjoy creating solutions for the problems I
 encounter online.
 
-Currently interested in low level programming with rust.
+Working on [A-Line Cloud](https://a-line.cloud)
+
+Currently interested in low level programming with rust and electronics!
 
 ## Current Stack
 
@@ -30,7 +32,7 @@ php (&Laravel), Windows, Markdown, Kotlin (&compose), CSS/SCSS/TailwindCSS,
 Typescript _[Vue (&NuxtJS), Svelte (&kit)]_
 
 Feel free to contact me on discord [**arthur_dw**](https://discord.com/users/232182858251239424)
-or mail me **[contact@arthurdw.com](mailto:contact@arthurdw.com)**.
+or mail me **[arthur@a-line.be](mailto:arthur@a-line.be)**.
 
 ## Whitepapers
 
