@@ -1,0 +1,33 @@
+name: Update age in README
+
+on:
+  schedule:
+    # Runs every year on June 27th (birthday) at 06:00 UTC
+    - cron: "0 6 27 6 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update age in README
+        run: |
+          BIRTH_YEAR=2003
+          CURRENT_YEAR=$(date -u +%Y)
+          AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+          sed -i -E "s/a [0-9]+-year-old/a ${AGE}-year-old/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "chore: update age in README"
+            git push
+          fi
